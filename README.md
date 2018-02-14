@@ -1,5 +1,5 @@
 # Visual Studio Code Setup
-===================
+=============
 
 ### Themes
 1. [Panda Sintax](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
@@ -25,3 +25,5 @@
 2. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 3. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 4. [Insta markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
+
+
