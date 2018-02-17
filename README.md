@@ -25,5 +25,4 @@
 2. [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 3. [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 4. [Insta markdown](https://marketplace.visualstudio.com/items?itemName=dbankier.vscode-instant-markdown)
-
-
+5. [GitFlow](https://marketplace.visualstudio.com/items?itemName=vector-of-bool.gitflow)
