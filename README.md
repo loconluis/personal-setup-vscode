@@ -1,5 +1,4 @@
 # Visual Studio Code Setup
-=============
 
 ### Themes
 1. [Panda Sintax 🐼](https://marketplace.visualstudio.com/items?itemName=tinkertrain.theme-panda)
